@@ -5,9 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="discosnow",
-    version="0.0.1",
+    version="0.0.4",
     author="being24",
-    description="A simple tool from discord-snowflake to time",
+    author_email="being24@gmail.com",
+    description="A simple tools for discord-snowflake",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/being24/discord-snowflake",
